@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OffsetMessage",""],["PartitionOffset",""],["ProduceMessage",""],["TopicMessage",""],["TopicPartition",""],["TopicPartitionOffset",""],["TopicPartitionOffsetError",""],["TopicPartitions",""]]});
